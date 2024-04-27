@@ -247,7 +247,7 @@ a {
       top: 1.5rem;
       width: 1rem;
       height: 1rem;
-      outline-offset: 0.2rem;
+      outline-offset: 0.1rem;
       outline: 0.4rem dotted #ffc409;
       background-color: #ffc409; }
   .darkmore input:checked ~ .toggle span {
